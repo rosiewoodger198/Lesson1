@@ -1,0 +1,46 @@
+body {
+  font-family: "Times New Roman";
+  text-align: center;
+  background-image: "IMG.jpeg";
+  background-repeat: inherit;
+  background-color: #B3D2FF;
+}
+
+h1 {
+  font-family: "arial";
+  text-transform: uppercase; 
+}
+
+h1, h2 {
+  text-align: center;
+  color: #20696D;
+}
+
+#kesha {
+  width: 600px;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: white;
+}
+
+.lists {
+	font-family: Helvetica;
+	text-shadow: 2px 2px #000000;
+	text-transform: uppercase;
+}
+
+.stand {
+	text-shadow: 1px 1px #000000;
+	background-color: white;
+}
+
+.bolder {
+	color: black;
+	text-decoration-line: underline;
+	letter-spacing: 4px;
+}
+
+img {
+	width: 550px;
+	margin: 0 auto;
+}
